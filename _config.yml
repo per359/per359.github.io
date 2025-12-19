@@ -113,11 +113,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Jinpeng"
+  avatar           : "/assets/avatar.jpg"
+  bio              : "Chemistry & Materials Science and Engineering"
+  location         : "CUHHK(Shenzhen)"
+  email            : "225015029@link.cuhk.edu.cn
+                      3041563591@qq.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
